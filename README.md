@@ -1,2 +1,2 @@
 # LOGIN-PAGE
-LOGIN PAGE using REACT
+Implemented a secure and responsive login page with user authentication, form validation, and modern UI design.
